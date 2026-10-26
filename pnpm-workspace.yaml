@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - '@tanstack/redact@0.2.0'
